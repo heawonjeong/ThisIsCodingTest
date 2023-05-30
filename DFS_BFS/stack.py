@@ -11,4 +11,4 @@ stack.append(4)
 stack.pop()
 
 print(stack)
-print(stack[::-1])
+print(stack[::-1]) 
